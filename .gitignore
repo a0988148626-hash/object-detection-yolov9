@@ -1,0 +1,22 @@
+# Third-party cloned repo (clone separately per README)
+yolov9/
+
+# Converted/raw datasets (large, excluded from this portfolio repo)
+pcb_yolo/
+edgepcb/
+
+# Model weights and training outputs
+*.pt
+*.pth
+runs/
+
+# Leftover/stray local files
+Python
+patches/
+
+# Editor/OS
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
